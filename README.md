@@ -8,3 +8,4 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 
 [MAE402: Media Intelligence for the Cloud with Amazon AI](notes/mae402-media-intelligence-for-the-cloud-with-amazon-ai.md)
 
+[FSV305: Optimizing Payments Collections with Containers and Machine Learning](notes/fsv305-optimizing-payments-collections-with-containers-and-machine-learning.md)
