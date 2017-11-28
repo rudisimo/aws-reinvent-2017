@@ -19,3 +19,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [CTD405: Building Serverless Video Workflows](notes/ctd405-building-serverless-video-workflows.md)
 
 [DAT324: Expedia Flies with DynamoDB: Lighting Fast Stream Processing for Travel Analytics](notes/dat324-expedia-flies-with-dynamodb-lighting-fast-stream-processing-for-travel-analytics.md)
+
+[CMP319: Easily Coordinate Microservices, Build Serverless Apps, and Automate Tasks as Visual Workflows using AWS Step Functions](notes/cmp319-easily-coordinate-microservices-build-serverless-apps-and-automate-tasks-as-visual-workflows-using-aws-step-functions.md)
