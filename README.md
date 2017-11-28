@@ -13,3 +13,7 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [GAM307: Ubisoft: How For Honor Runs Using Amazon ECS](notes/gam307-ubisoft-how-for-honor-runs-using-amazon-ecs.md)
 
 [GAM401: Designing for the Future: Building a Flexible Event-based Analytics Architecture for Games](notes/gam401-designing-for-the-future-building-a-flexible-event-based-analytics-architecture-for-games.md)
+
+### Day 2
+
+[CTD405: Building Serverless Video Workflows](notes/ctd405-building-serverless-video-workflows.md)
