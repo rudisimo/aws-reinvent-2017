@@ -21,3 +21,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [DAT324: Expedia Flies with DynamoDB: Lighting Fast Stream Processing for Travel Analytics](notes/dat324-expedia-flies-with-dynamodb-lighting-fast-stream-processing-for-travel-analytics.md)
 
 [CMP319: Easily Coordinate Microservices, Build Serverless Apps, and Automate Tasks as Visual Workflows using AWS Step Functions](notes/cmp319-easily-coordinate-microservices-build-serverless-apps-and-automate-tasks-as-visual-workflows-using-aws-step-functions.md)
+
+[CTD406: Measuring the Internet in Real Time](notes/ctd406-measuring-the-internet-in-realtime.md)
