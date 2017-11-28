@@ -17,3 +17,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 ### Day 2
 
 [CTD405: Building Serverless Video Workflows](notes/ctd405-building-serverless-video-workflows.md)
+
+[DAT324: Expedia Flies with DynamoDB: Lighting Fast Stream Processing for Travel Analytics](notes/dat324-expedia-flies-with-dynamodb-lighting-fast-stream-processing-for-travel-analytics.md)
