@@ -23,3 +23,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [CMP319: Easily Coordinate Microservices, Build Serverless Apps, and Automate Tasks as Visual Workflows using AWS Step Functions](notes/cmp319-easily-coordinate-microservices-build-serverless-apps-and-automate-tasks-as-visual-workflows-using-aws-step-functions.md)
 
 [CTD406: Measuring the Internet in Real Time](notes/ctd406-measuring-the-internet-in-realtime.md)
+
+[DAT305: ElastiCache Deep Dive: Best Practices and Usage Patterns](notes/dat305-elasticache-deep-dive-best-practices-and-usage-patterns.md)
