@@ -25,3 +25,7 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [CTD406: Measuring the Internet in Real Time](notes/ctd406-measuring-the-internet-in-realtime.md)
 
 [DAT305: ElastiCache Deep Dive: Best Practices and Usage Patterns](notes/dat305-elasticache-deep-dive-best-practices-and-usage-patterns.md)
+
+### Day 3
+
+[ARC311: Serverless Encoding at Scale with Content Moderation via Deep Learning-Based Video Analysis](notes/arc311-serverless-encoding-at-scale-with-content-moderation-via-deep-learning-based-video-analysis.md)
