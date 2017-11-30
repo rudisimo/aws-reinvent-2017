@@ -31,3 +31,7 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [ARC311: Serverless Encoding at Scale with Content Moderation via Deep Learning-Based Video Analysis](notes/arc311-serverless-encoding-at-scale-with-content-moderation-via-deep-learning-based-video-analysis.md)
 
 [DAT326: How DynamoDB Powered Amazon Prime Day 2017](notes/dat326-how-dynamodb-powered-amazon-prime-day.md)
+
+### Day 4
+
+[CMP311: Auto Scaling Prime Time: Target Tracking Hits the Bullseye at Netflix](notes/cmp311-auto-scaling-prime-time-target-tracking-hits-the-bullseye-at-netflix.md)
