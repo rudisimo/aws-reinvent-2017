@@ -1,6 +1,6 @@
 # AWS re:Invent 2017
 
-This repository holds my notes and any other relevant material for AWS re:Invent 2017. Head over to the [notes/](notes) directory for my notes. Any related codebase can be found under [code/](code).
+This repository holds my notes and any other relevant material for AWS re:Invent 2017. Head over to the [notes/](notes) directory for my notes.
 
 ## Talks
 
@@ -35,3 +35,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 ### Day 4
 
 [CMP311: Auto Scaling Prime Time: Target Tracking Hits the Bullseye at Netflix](notes/cmp311-auto-scaling-prime-time-target-tracking-hits-the-bullseye-at-netflix.md)
+
+[MCL326: Convert Any Digital Text Into Natural Sounding Speech](notes/mcl326-convert-any-digital-text-into-natural-sounding-speech.md)
