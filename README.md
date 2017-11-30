@@ -29,3 +29,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 ### Day 3
 
 [ARC311: Serverless Encoding at Scale with Content Moderation via Deep Learning-Based Video Analysis](notes/arc311-serverless-encoding-at-scale-with-content-moderation-via-deep-learning-based-video-analysis.md)
+
+[DAT326: How DynamoDB Powered Amazon Prime Day 2017](notes/dat326-how-dynamodb-powered-amazon-prime-day.md)
