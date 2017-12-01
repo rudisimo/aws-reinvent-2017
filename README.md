@@ -37,3 +37,5 @@ This repository holds my notes and any other relevant material for AWS re:Invent
 [CMP311: Auto Scaling Prime Time: Target Tracking Hits the Bullseye at Netflix](notes/cmp311-auto-scaling-prime-time-target-tracking-hits-the-bullseye-at-netflix.md)
 
 [MCL326: Convert Any Digital Text Into Natural Sounding Speech](notes/mcl326-convert-any-digital-text-into-natural-sounding-speech.md)
+
+[ABD401: How Netflix Monitors Applications in Near Real-Time with Amazon Kinesis](notes/abd401-how-netflix-monitors-applications-in-near-real-time-with-amazon-kinesis.md)
