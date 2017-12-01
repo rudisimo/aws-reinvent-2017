@@ -1,7 +1,7 @@
 # Serverless Encoding at Scale with Content Moderation via Deep Learning-Based Video Analysis
 > Paul Roberts  
 
-# Notes
+## Notes
 
 * Linear-television business model evolution
 * Transcoding at scale with AWS

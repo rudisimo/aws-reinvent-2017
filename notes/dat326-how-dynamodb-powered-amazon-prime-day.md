@@ -1,7 +1,7 @@
 # How DynamoDB Powered Amazon Prime Day 2017
 > Chris Suver  
 
-# Notes
+## Notes
 
 ### Prime Day 2017
 
